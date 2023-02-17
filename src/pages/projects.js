@@ -28,7 +28,7 @@ export default function Projects() {
                         <Card.Body>
                           <div className="py-2">
                             <Terminal dir="project">
-                              <div className="py-2">
+                              <div className="py-2 mx-auto text-center">
                                 <h3>{name}</h3>
                                 <p>{description}</p>
                                 <Button
