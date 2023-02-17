@@ -13,7 +13,7 @@ export default function Contact() {
             <Card.Body>
               <Terminal dir="contact">
                 <div className="my-auto">
-                <Form name="contact" action="/message_success" method="POST"  data-netlify="true" data-netlify-recaptcha="true">
+                <Form name="contact" method="POST"  data-netlify="true" data-netlify-recaptcha="true">
                   <input type="hidden" name="form-name" value="contact" />
                   <Form.Group className="mb-3" controlId="Name">
                     <Form.Label>Nombre</Form.Label>
