@@ -14,7 +14,7 @@ export default function Index() {
               <Terminal dir="home">
                 <Row>
                   <Col md="4">
-                    <Image src="/profile.jpg" className="image p-2" />
+                    <Image src="/profile.jpg" className="profile-image p-2" />
                   </Col>
                   <Col md="7" className="mx-auto text-center px-2">
                     <h2 className="adaptable-text-90">Hola Soy Andrés</h2>
