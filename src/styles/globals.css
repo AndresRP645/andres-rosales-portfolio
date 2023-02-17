@@ -1,79 +1,84 @@
-body{
-	background: url(../../public/views/background.jpg);   
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: 100% 100%;
-	background-position: center;
-	font-family: sans-serif;
-	margin-bottom: 100px;
+body {
+  background: url(../../public/views/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center;
+  font-family: sans-serif;
+  margin-bottom: 100px;
 }
 
-.main{
-	height: 100vh;
-	width: 100vw;
+.main {
+  height: 100vh;
+  width: 100vw;
 }
 
-.offcanvas.offcanvas-end.show, .offcanvas.offcanvas-end.offcanvas-toggling{
-	background: url(../../public/views/menu-background.png);   
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: 100% 100%;
-	background-position: center;
-	color: white;
+.offcanvas.offcanvas-end.show,
+.offcanvas.offcanvas-end.offcanvas-toggling {
+  background: url(../../public/views/menu-background.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center;
+  color: white;
 }
 
-.cv-button{
-	margin-right: 50px;
+.cv-button {
+  margin-right: 50px;
 }
 
-.image{
-	width: 100%;
-	height: 100%;
-	border-radius: 10px;
+.image {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
 }
 
-.small-image{
-	height: 70px;
-	border-radius: 10px;
+.small-image {
+  height: 70px;
+  border-radius: 10px;
 }
 
-.image-card{
-	height: 250px;
-	border-radius: 30px;
+.image-card {
+  height: 250px;
+  border-radius: 30px;
 }
 
-.card-project{
-	height: 600px;
-	border-radius: 30px;
+.card-project {
+  height: 600px;
+  border-radius: 30px;
 }
 
-.span-carousel{
-	border-radius: 40px;
+.card-project-terminal {
+  border-radius: 20px;
 }
 
-.carousel-img{
-	width: 800px;
+.span-carousel {
+  border-radius: 40px;
 }
 
-.adaptable-text-border{
-	border-radius: 20px;
-	pading: 30px;
+.carousel-img {
+  width: 800px;
+}
+
+.adaptable-text-border {
+  border-radius: 20px;
+  pading: 30px;
 }
 
 @media (max-height: 4000px) {
   .adaptable-text-90 {
     font-size: 35px;
   }
-	.adaptable-text-80 {
+  .adaptable-text-80 {
     font-size: 30px;
   }
-	.adaptable-text-70 {
+  .adaptable-text-70 {
     font-size: 25px;
   }
-	.adaptable-text-60 {
+  .adaptable-text-60 {
     font-size: 20px;
   }
-	.adaptable-text-50 {
+  .adaptable-text-50 {
     font-size: 15px;
   }
 }
@@ -82,16 +87,16 @@ body{
   .adaptable-text-90 {
     font-size: 18px;
   }
-	.adaptable-text-80 {
+  .adaptable-text-80 {
     font-size: 18px;
   }
-	.adaptable-text-70 {
+  .adaptable-text-70 {
     font-size: 16px;
   }
-	.adaptable-text-60 {
+  .adaptable-text-60 {
     font-size: 14px;
   }
-	.adaptable-text-50 {
+  .adaptable-text-50 {
     font-size: 12px;
   }
 }

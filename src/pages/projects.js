@@ -19,7 +19,7 @@ export default function Projects() {
                     <Col md="5" key={i} className="p-2 mx-auto">
                       <div>
                       <hr className="border border-light border-3 opacity-75" />
-                      <Card bg="danger" className="card-project">
+                      <Card border="light" className="card-project">
                         <Card.Img
                           variant="top"
                           src={`/projects/${image}`}
