@@ -1,0 +1,58 @@
+export const experiences = [,
+  {
+    title: "Regularizaciones para alumnos de primeros semestres de nivel superior en carrera de sistemas",
+    description: "Se dan asesorías y regularizaciones a alumnos de la carrera de sistemas que tengan problemas para entender las clases de programación o a alumnos que tengan algún problema de aprendizaje y les cueste trabajo comprender la forma de explicar de algunos profesores, esto con el fin de apoyar a los compañeros que realmente quieren aprender pero por alguna razón no les queda del todo claro las clases. Ya que muchas veces uno como estudiante tiene miedo de preguntar a los profesores y se siente más en confianza con un igual.",
+    from: "Agosto 2018",
+    technologies: "Java, Python, Mysql, C++, Javascript, HTML, CSS, Weka, Excel",
+  },
+  {
+    title: "Videojuego Space Invaders",
+    description: "El jugador controla un cañón que puede moverse a la derecha o izquierda y un botón de disparo. Su objetivo es destruir filas de extraterrestres invasores (de los cuales hay tres tipos: con forma de calamar, de cangrejo y de pulpo) que van acercándose a la tierra cada vez más rápidamente a medida que el jugador va destruyendo a los enemigos. Este ciclo se puede repetir en forma indefinida. Si los invasores llegan al cañón controlado por el jugador, el juego termina.",
+    from: "Agosto 2016",
+    to: "Diciembre 2016",
+    technologies: "C++",
+  },
+  {
+    title: "Videojuego Bomberman 3D",
+    description: "Para poder comprender como se tratan y visualizan los datos computacionalmente en un entorno de 3 dimensiones, se realizó un videojuego en 3D, el cual se planteó como un juego en realidad virtual para experimentar con estas nuevas tecnologías. Objetivo secundario se tenía crear un medio de entretenimiento para así aprender de una manera más interactiva y entretenida, el juego en cuestión que se creo fue una versión del juego bomberman, el cual pertenece al género de estrategia y laberintos, cuyo objetivo es matar a todos los enemigos que se presentan por nivel con bombas.",
+    from: "Agosto 2018",
+    to: "Diciembre 2018",
+    technologies: "GameMaker Studio, GML(Game Maker Language), Photoshop",
+  },
+  {
+    title: "Sistema experto para la detección de trastornos mentales",
+    description: "Se creó un sistema de encuestas en el cual se preguntaban situaciones emocionales muy puntuales en las cuales sería posible detectar trastornos mentales y emocionales como la esquizofrenia, la bipolaridad, el déficit de atención, entre otros más, este sistema se creó con ayuda y apoyo de maestros psicólogos para tener un resultado preciso y real, esto con la finalidad de ayudar a los psicólogos a dar un mejor diagnóstico y también de detectar si una persona es propensa a sufrir más de un trastorno.",
+    from: "Agosto 2018",
+    to: "Diciembre 2018",
+    technologies: "Java, MySQL, Excel",
+  },
+  {
+    title: "Artículo Impacto de la Cuarentena de Covid-19 en la Salud Mental y Posible Causa de Depresión en las Personas",
+    description: "Mediante un sistema de encuestas se recabo información sobre habitantes de Chimalhuacán y Nezahualcoyotl en el estado de México, en esta se realizaron preguntas sobre el cambio de vida que se tuvo la necesidad de hacer a causa de la pandemia provocada por el virus SARS-COV-2 que ocasiona la enfermedad conocida como coronavirus, para tener información detallada sobre la mentalidad de las personas y como tomaron la situación, así mismo detectar a tiempo los casos en los cuales las personas hayan desarrollado depresión.",
+    from: "Agosto 2020",
+    to: "Diciembre 2020",
+    technologies: "Java, Weka, Microsoft Forms, Excel",
+  },
+  {
+    title: "Artículo Detección de posibles causas de interrupción legal del embarazo, tomando en cuenta la situación socioeconómica de las mujeres",
+    description: "Con base en un banco de datos tomado de la página oficial de datos del gobierno de la ciudad de México se desarrolló un algoritmo genético para saber los posibles casos en los cuales una mujer podría realizar una interrupción legal del embarazo, consultando datos como, lugar de residencia, edad, nivel de educación, ingresos económicos, entre otros diversos datos socioeconómicos; Con estos datos se realizaron diversas combinaciones de datos para saber si en esa hipotética situación una mujer podría interrumpir su embarazo.",
+    from: "Agosto 2020",
+    to: "Diciembre 2020",
+    technologies: "Java, Excel",
+  },
+  {
+    title: "Sistema de frenado de un coche a control remoto",
+    description: "Se desarrolló un sistema para el frenado de un coche a control remoto, en el cual con base a datos como la velocidad que tiene en el momento que se aplica el freno y la distancia que ha recorrido desde que empezó a moverse se calcula la fuerza con la que se aplicara el freno mediante métodos de lógica difusa.",
+    from: "Febrero 2021",
+    to: "Junio 2021",
+    technologies: "Python",
+  },
+  {
+    title: "Instrumento de Apreciación Docente aplicado a alumnos",
+    description: "Como Prácticas Profesionales se está realizando un sistema de encuestas a alumnos de nivel superior en el cual se creó una página web donde se realizó una encuesta a alumnos de la Universidad Autónoma del Estado de México campus Nezahualcóyotl preguntando sobre la forma de enseñanza del profesor y sobre el aprendizaje que han adquirido por las clases, de tal forma que con esta información proporcionada y mediante métodos matemáticos se busca la Correlación Estadística entre estos datos y saber si el profesor es un buen docente o en su defecto mejorar los métodos de enseñanza del mismo.",
+    from: "Diciembre 2021",
+    to: "Diciembre 2022",
+    technologies: "Node.js, Express.js, MySql, JavaScript, Java, Excel",
+  },
+  
+];
