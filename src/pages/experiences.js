@@ -3,7 +3,7 @@ import Terminal from "@/components/Terminal";
 import { experiences } from "@/cfg/experiences";
 import { Container, Row, Col, Card } from "react-bootstrap";
 
-export default function Skills() {
+export default function Experiences() {
   return (
     <>
       <Layout page="experiences" title="Experiencia">
