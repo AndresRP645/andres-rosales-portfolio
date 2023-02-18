@@ -30,7 +30,7 @@ export default function Navigation({ page, title }) {
           </Navbar.Offcanvas>
         </Container>
         <Button
-        className="cv-button"
+        className="cv-button mx-auto"
           href="/files/ARP-CV.pdf"
           variant="primary"
           target="_blank"
