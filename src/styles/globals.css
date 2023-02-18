@@ -34,13 +34,12 @@ body {
 }
 
 .image {
-  width: 100%;
-  height: 100%;
+  width: 300px;
   border-radius: 10px;
 }
 
 .small-image {
-  height: 70px;
+  width: 70px;
   border-radius: 10px;
 }
 
@@ -68,7 +67,7 @@ body {
 
 .adaptable-text-border {
   border-radius: 20px;
-  pading: 30px;
+  padding: 30px;
 }
 
 @media (max-height: 4000px) {

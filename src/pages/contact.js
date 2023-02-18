@@ -59,7 +59,7 @@ export default function Contact() {
                     <Row>
                       <br />
                       {social_networks.map(({ url, image, label }, i) => (
-                        <Col md="1" className="mx-auto mt-3" key={i}>
+                        <Col md="1" className="mx-auto mt-3 my-auto" key={i}>
                           <a href={url} target="_blank" className="slider-nav-item">
                             <img
                               className="small-image"
