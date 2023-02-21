@@ -32,7 +32,7 @@ export default function Index() {
                       <br />
                       Mi meta es ser FullStack Developer y Game Developer.
                       <br />
-                      <br />Y siempre he sido de la idea que siempre hay cosas
+                      <br />Y siempre he sido de la idea que constantemente hay cosas
                       nuevas que aprender y nunca es tarde para comenzar un
                       nuevo proyecto o aprendizaje.
                     </p>
