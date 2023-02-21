@@ -1,84 +1,84 @@
 export const skills = [
   {
-    image:"java.png",
+    image: "java.png",
     skill: "Java",
   },
   {
-    image:"python.png",
+    image: "python.png",
     skill: "Python",
   },
   {
-    image:"c-cpp.png",
+    image: "c-cpp.png",
     skill: "C, C++",
   },
   {
-    image:"mysql.png",
-    skill: "Mysql",
-  },
-  {
-    image:"sql-server.png",
-    skill: "Sql Server",
-  },
-  {
-    image:"mongodb.png",
-    skill: "Mongodb",
-  },
-  {
-    image:"terminal.png",
+    image: "terminal.png",
     skill: "Gestión de Sistemas Operativos Windows y Linux",
   },
   {
-    image:"office.png",
-    skill: "Suit de ofimática de Microsoft",
-  },
-  {
-    image:"js.png",
+    image: "js.png",
     skill: "JavaScript",
   },
   {
-    image:"html.png",
+    image: "html.png",
     skill: "HTML",
   },
   {
-    image:"css.png",
+    image: "css.png",
     skill: "CSS",
-
   },
   {
-    image:"bootstrap.png",
+    image: "bootstrap.png",
     skill: "Bootstrap",
   },
   {
-    image:"node.png",
+    image: "node.png",
     skill: "Node.js",
   },
   {
-    image:"react.png",
+    image: "react.png",
     skill: "React.js",
   },
   {
-    image:"express.png",
+    image: "express.png",
     skill: "Express.js",
   },
   {
-    image:"next.png",
+    image: "next.png",
     skill: "Next.js",
   },
   {
-    image:"git.png",
+    image: "mysql.png",
+    skill: "Mysql",
+  },
+  {
+    image: "sql-server.png",
+    skill: "Sql Server",
+  },
+  {
+    image: "mongodb.png",
+    skill: "Mongodb",
+  },
+  {
+    image: "office.png",
+    skill: "Suit de ofimática de Microsoft",
+  },
+
+  {
+    image: "git.png",
     skill: "git",
   },
   {
-    image:"github.png",
+    image: "github.png",
     skill: "Github",
   },
-  
+
   {
-    image:"electronica.png",
+    image: "electronica.png",
     skill: "Electrónica",
   },
   {
-    image:"photoshop.png",
+    image: "photoshop.png",
     skill: "Photoshop",
   },
 ];
