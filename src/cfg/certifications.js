@@ -15,6 +15,12 @@ export const certifications = [,
   },
   {
     type:"Curso",
+    company: "Towa Software",
+    name: "Training Cobol",
+    image:"towa.png"
+  },
+  {
+    type:"Curso",
     company: "Cisco",
     name: "Introduction to Cybersecurity",
     image:"ciberseguridad.png",
