@@ -4,10 +4,6 @@ export const carousel = [
     image: "Basketball.jpg",
   },
   {
-    name: "Cartoons",
-    image: "Cartoons.jpg",
-  },
-  {
     name:"Ciclismo",
     image:"Ciclismo.jpg",
   },
@@ -62,10 +58,6 @@ export const carousel = [
   {
     name: "Videojuegos",
     image: "Videojuegos.jpg",
-  },
-  {
-    name: "Youtube y Twitch",
-    image: "YoutubeTwitch.jpg",
   },
 
 ];

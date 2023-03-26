@@ -1,16 +1,23 @@
 export const experiences = [,
   {
-    title: "Regularizaciones para alumnos de primeros semestres de nivel superior en carrera de sistemas",
+    title: "Asesor de regularizaciones a alumnos de nivel medio superior y superior",
     description: "Se dan asesorías y regularizaciones a alumnos de la carrera de sistemas que tengan problemas para entender las clases de programación o a alumnos que tengan algún problema de aprendizaje y les cueste trabajo comprender la forma de explicar de algunos profesores, esto con el fin de apoyar a los compañeros que realmente quieren aprender pero por alguna razón no les queda del todo claro las clases. Ya que muchas veces uno como estudiante tiene miedo de preguntar a los profesores y se siente más en confianza con un igual.",
     from: "Agosto 2018",
     technologies: "Java, Python, Mysql, C++, Javascript, HTML, CSS, Weka, Excel",
+  },
+  {
+    title: "Instrumento de apreciación docente aplicado a alumnos",
+    description: "Como Prácticas Profesionales se está realizando un sistema de encuestas a alumnos de nivel superior en el cual se creó una página web donde se realizó una encuesta a alumnos de la Universidad Autónoma del Estado de México campus Nezahualcóyotl preguntando sobre la forma de enseñanza del profesor y sobre el aprendizaje que han adquirido por las clases, de tal forma que con esta información proporcionada y mediante métodos matemáticos se busca la Correlación Estadística entre estos datos y saber si el profesor es un buen docente o en su defecto mejorar los métodos de enseñanza del mismo.",
+    from: "Diciembre 2021",
+    to: "Diciembre 2022",
+    technologies: "Node.js, Express.js, MySql, JavaScript, Java, Excel",
   },
   {
     title: "Videojuego Space Invaders",
     description: "El jugador controla un cañón que puede moverse a la derecha o izquierda y un botón de disparo. Su objetivo es destruir filas de extraterrestres invasores (de los cuales hay tres tipos: con forma de calamar, de cangrejo y de pulpo) que van acercándose a la tierra cada vez más rápidamente a medida que el jugador va destruyendo a los enemigos. Este ciclo se puede repetir en forma indefinida. Si los invasores llegan al cañón controlado por el jugador, el juego termina.",
     from: "Agosto 2016",
     to: "Diciembre 2016",
-    technologies: "C++",
+    technologies: "C++, Photoshop",
   },
   {
     title: "Videojuego Bomberman 3D",
@@ -40,19 +47,4 @@ export const experiences = [,
     to: "Diciembre 2020",
     technologies: "Java, Excel",
   },
-  {
-    title: "Sistema de frenado de un coche a control remoto",
-    description: "Se desarrolló un sistema para el frenado de un coche a control remoto, en el cual con base a datos como la velocidad que tiene en el momento que se aplica el freno y la distancia que ha recorrido desde que empezó a moverse se calcula la fuerza con la que se aplicara el freno mediante métodos de lógica difusa.",
-    from: "Febrero 2021",
-    to: "Junio 2021",
-    technologies: "Python",
-  },
-  {
-    title: "Instrumento de Apreciación Docente aplicado a alumnos",
-    description: "Como Prácticas Profesionales se está realizando un sistema de encuestas a alumnos de nivel superior en el cual se creó una página web donde se realizó una encuesta a alumnos de la Universidad Autónoma del Estado de México campus Nezahualcóyotl preguntando sobre la forma de enseñanza del profesor y sobre el aprendizaje que han adquirido por las clases, de tal forma que con esta información proporcionada y mediante métodos matemáticos se busca la Correlación Estadística entre estos datos y saber si el profesor es un buen docente o en su defecto mejorar los métodos de enseñanza del mismo.",
-    from: "Diciembre 2021",
-    to: "Diciembre 2022",
-    technologies: "Node.js, Express.js, MySql, JavaScript, Java, Excel",
-  },
-  
 ];
