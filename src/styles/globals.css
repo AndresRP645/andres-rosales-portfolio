@@ -8,11 +8,6 @@ body {
   margin-bottom: 100px;
 }
 
-.main {
-  height: 100vh;
-  width: 100vw;
-}
-
 .offcanvas.offcanvas-end.show,
 .offcanvas.offcanvas-end.offcanvas-toggling {
   background: url(../../public/views/menu-background.png);

@@ -10,7 +10,6 @@ export default function Layout({ page, title, children }) {
 
   useEffect(() => {
     const handleRouteChange = (url) => {
-      console.log(url);
       nProgress.start()
     };
 
