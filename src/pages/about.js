@@ -16,7 +16,7 @@ export default function About() {
                     {carousel.map(({name, image}, i) => (
                     <Carousel.Item key={i}>
                     <img
-                      className="carousel-img d-block w-100 "
+                      className="carousel-img d-block w-100"
                       src={`/carousel/${image}`}
                       alt={name}
                     />
